@@ -1,0 +1,31 @@
+_repo: The-World-s-Great-Sermons-Volume-5--Guthrie-to-Mozley_44420
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 44420-h/images/coverpage.jpg
+creator:
+  editor:
+    agent_name: Kleiser, Grenville
+    birthdate: 1868
+    deathdate: 1953
+    gutenberg_agent_id: '4071'
+    url: http://www.gutenberg.org/2009/agents/4071
+description: ''
+gutenberg_issued: '2013-12-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44420'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Sermons'
+- !lcc 'BV'
+tableOfContents: The new heart / Guthrie -- The valley of dry bones / Maurice -- Parting
+  words / Martineau -- The triumph of the Church / Manning -- The prominence of the
+  atonement / Park -- The resurrection of our Lord / Simpson -- The transient and
+  permanent in Christianity / Theodore Parker -- The true Christian ministry / Macleod
+  -- The reversal of human judgment / Mozley.
+title: 'The World''s Great Sermons, Volume 05: Guthrie to Mozley'
+url: http://www.gutenberg.org/ebooks/44420
